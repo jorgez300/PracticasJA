@@ -1,0 +1,50 @@
+HTML
+
+<!DOCTYPE html>
+<html lang="en">
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+<head>
+   <meta charset="UTF-8">
+    <title>Galeria</title>
+    
+</head>
+<body>
+    <h1>GALERIA HECHA CON CSS</h1>
+
+    <div class="flex-container">
+    <div class="flex-item">
+        <img alt="Photo 1" src="https://assets2.razerzone.com/images/pnx.assets/618c0b65424070a1017a7168ea1b6337/razer-wallpapers-page-hero-mobile.jpg">
+    </div>
+    <div class="flex-item">
+        <img alt="Photo 1" src="https://assets2.razerzone.com/images/pnx.assets/618c0b65424070a1017a7168ea1b6337/razer-wallpapers-page-hero-mobile.jpg">
+    </div>
+    <div class="flex-item">
+        <img alt="Photo 1" src="https://assets2.razerzone.com/images/pnx.assets/618c0b65424070a1017a7168ea1b6337/razer-wallpapers-page-hero-mobile.jpg">
+    </div>
+    <div class="flex-item">
+        <img alt="Photo 1" src="https://assets2.razerzone.com/images/pnx.assets/618c0b65424070a1017a7168ea1b6337/razer-wallpapers-page-hero-mobile.jpg">
+    </div>  
+</body>
+</html>
+
+CSS
+
+* {
+    font-family: 'Sen', sans-serif;
+    font-weight: 100;
+}
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.flex-item {
+    padding: 30px;
+    margin: 5px;
+    height: 120px;
+    min-width: 200px;
+    flex: 1;
+}
+img {
+    width: 100%;
+}
