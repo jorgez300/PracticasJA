@@ -1,0 +1,197 @@
+table, th, td {
+    border: 1px solid black;
+  }
+
+th, td {
+    padding: 10px;
+  }
+
+.titulo{
+    text-align: center;
+}
+
+.titulo-2{
+    text-align: center;
+}
+
+.color-1{
+    background-color: red;
+
+}
+
+.color-2{
+    background-color: yellow;
+}
+
+.color-3{
+    background-color: yellow;
+}
+
+.color-4{
+    background-color: red;
+}
+
+.color-5{
+    background-color: pink;
+}
+
+.color-6{
+    background-color: pink;
+}
+
+.color-7{
+    background-color: pink;
+}
+
+.color-8{
+    background-color: pink;
+}
+
+.color-9{
+    background-color: pink;
+}
+
+.color-10{
+    background-color: pink;
+}
+
+.color-11{
+    background-color: pink;
+}
+
+.color-12{
+    background-color: pink;
+}
+
+.color-13{
+    background-color: pink;
+}
+
+.color-14{
+    background-color: pink;
+}
+
+.color-15{
+    background-color: yellow;
+}
+
+.color-16{
+    background-color: pink;
+}
+
+.color-17{
+    background-color: #23bac4;
+}
+
+.color-18{
+    background-color: pink;
+}
+
+.color-19{
+    background-color: pink;
+}
+
+.color-20{
+    background-color: pink;
+}
+
+.color-21{
+    background-color: #8c4966;
+}
+
+.color-22{
+    background-color: pink;
+}
+
+.color-23{
+    background-color: pink;
+}
+
+.color-24{
+    background-color: pink;
+}
+
+.color-25{
+    background-color: #8c4966;
+}
+
+.color-26{
+    background-color: pink;
+}
+
+.color-27{
+    background-color: pink;
+}
+
+.color-28{
+    background-color: pink;
+}
+
+.color-29{
+    background-color: #8c4966;
+}
+
+.color-30{
+    background-color: pink;
+}
+
+.color-31{
+    background-color: yellow;
+}
+
+.color-32{
+    background-color: yellow;
+}
+
+.color-33{
+    background-color: yellow;
+}
+
+.color-34{
+    background-color: pink;
+}
+
+.color-35{
+    background-color: yellow;
+}
+
+.color-36{
+    background-color: yellow;
+}
+
+.color-37{
+    background-color: yellow;
+}
+
+.color-38{
+    background-color: pink;
+}
+
+.color-39{
+    background-color: yellow;
+}
+
+.color-40{
+    background-color: yellow;
+}
+
+.color-41{
+    background-color: #8c4966;
+}
+
+.color-42{
+    background-color: #23bac4;
+}
+
+.color-43{
+    background-color: red;
+}
+
+.color-44{
+    background-color: red;
+}
+
+flex-container {
+    display: flex;
+    flex-direction: column-reverse;
+  }
